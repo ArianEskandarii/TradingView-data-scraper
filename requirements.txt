@@ -10,7 +10,7 @@ asyncio==3.4.3
 beautifulsoup4==4.11.1
 bs4==0.0.1
 click==8.0.1
-dateparser==1.1.1
+dateparser==0.7.6
 Flask==2.2.2
 gunicorn==20.1.0
 itsdangerous==2.1.2
